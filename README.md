@@ -1,3 +1,3 @@
 # GoStack desafio conceitos de ReactJS
 
-Solução do desafio "Conceitos de ReactJS" do bootcamp Jornada GoStack da [Rocketseat](https://github.com/rocketseat-education).
+Solution for the challenge "Conceitos de ReactJS" of bootcamp Jornada GoStack by [Rocketseat](https://github.com/rocketseat-education).
